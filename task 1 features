@@ -1,0 +1,31 @@
+Sample Output (Encryption)
+Caesar Cipher
+1. Encrypt
+2. Decrypt
+Enter your choice (1/2): 1
+Enter the message: Hello World
+Enter the shift value: 3
+Encrypted Message: Khoor Zruog
+
+Sample Output (Decryption)
+Caesar Cipher
+1. Encrypt
+2. Decrypt
+Enter your choice (1/2): 2
+Enter the message: Khoor Zruog
+Enter the shift value: 3
+Decrypted Message: Hello World
+
+Summary
+The program uses the Caesar Cipher algorithm.
+Users can choose to encrypt or decrypt a message.
+It supports both uppercase and lowercase letters.
+Non-alphabetic characters (spaces, numbers, punctuation) remain unchanged.
+The shift value determines how many positions each letter moves in the alphabet.
+
+Features:
+
+Encrypts text using a user-defined shift value.
+Decrypts the encrypted text back to its original form.
+Supports both uppercase and lowercase letters.
+Preserves spaces, numbers, and special characters.
