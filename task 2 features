@@ -1,0 +1,20 @@
+Image Encryption Tool
+1. Encrypt Image
+2. Decrypt Image
+Enter your choice (1/2): 1
+Enter input image filename: (full path)image.jpg  
+Enter output image filename: e_image.png
+Enter encryption key (0-255): 50
+Saved at:(full path)e_image.png
+Encrypted image saved as: e_image.png
+
+
+Image Encryption Tool
+1. Encrypt Image
+2. Decrypt Image
+Enter your choice (1/2): 2
+Enter input image filename: e_image.png
+Enter output image filename: d_image.png
+Enter encryption key (0-255): 50
+Saved at: (full path)d_image.png
+Decrypted image saved as: d_image.png
